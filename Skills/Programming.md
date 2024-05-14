@@ -4,17 +4,17 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm: 🖐️ used
   - Syntax
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction: 🎓 known
+  - Paradigm: 🎓 known
+  - Programm: 🖐️ used
+  - Programming paradigm: 🎓 known
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library
+  - Library: 🎓 known
   - Package
   - Component
   - Framework
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 👂 heard
+  - Class: 👂 heard
+  - Prototype: 👂 heard
   - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 👂 heard
+  - Code block: 🖐️ used
   - Conditions
-  - Loops
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression
+  - Regular expression: 🖐️ used
   - Interface
   - Namespaces
   - Call stack
@@ -66,14 +66,14 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing: 🖐️ used
+  - Weak typing: 🎓 known
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -83,15 +83,15 @@
 - Functions
   - Signature
   - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
   - Side effects
   - Closure
   - Partial application
-  - Currying
+  - Currying: 🎓 known
   - Higher order
-  - Recursion
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
@@ -99,23 +99,23 @@
   - Pipe
   - Memoize
   - Wrapper
-  - Functor
+  - Functor: 🎓 known
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
   - Hash table
-  - Linked list
-  - Doubly list
+  - Linked list: 🖐️ used
+  - Doubly list: 🎓 known
   - Unrolled list
   - Circular list
   - Queue
@@ -146,44 +146,44 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
+  - Refactoring: 🖐️ used
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code
+  - Dead code: 🎓 known
   - Unreachable code
-  - Duplicate code
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 🖐️ used
+  - Unix: 🎓 known
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
