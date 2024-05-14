@@ -4,17 +4,17 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm *
   - Syntax
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction +
+  - Paradigm +
+  - Programm *
+  - Programming paradigm +
+  - Programming language *
   - Contract
   - Module
-  - Library
+  - Library +
   - Package
   - Component
   - Framework
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar *
+  - Literal *
+  - Expression *
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Function *
+  - Procedure ~
+  - Method ~
+  - Class ~
+  - Prototype ~
   - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
+  - Type *
+  - Flag *
+  - Lexical scope ~
+  - Code block *
   - Conditions
-  - Loops
+  - Loops *
   - Assignment
-  - Regular expression
+  - Regular expression *
   - Interface
   - Namespaces
   - Call stack
@@ -66,14 +66,14 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types *
+  - Reference types *
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing *
+  - Weak typing +
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing *
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -83,15 +83,15 @@
 - Functions
   - Signature
   - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Parameter *
+  - Pure function *
+  - Lambda expression *
   - Side effects
   - Closure
   - Partial application
-  - Currying
+  - Currying +
   - Higher order
-  - Recursion
+  - Recursion *
   - Tail call optimisation
   - Callback
   - Listener
@@ -99,23 +99,23 @@
   - Pipe
   - Memoize
   - Wrapper
-  - Functor
+  - Functor +
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array *
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object *
+  - Collection *
+  - Set *
   - Hash table
-  - Linked list
-  - Doubly list
+  - Linked list *
+  - Doubly list +
   - Unrolled list
   - Circular list
   - Queue
@@ -146,44 +146,44 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter *
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine *
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
+  - Refactoring *
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers +
+  - Hard code +
+  - Soft code +
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti +
+  - Silver bullet +
   - Not invented here
-  - Dead code
+  - Dead code +
   - Unreachable code
-  - Duplicate code
+  - Duplicate code +
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux *
+  - Unix +
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
