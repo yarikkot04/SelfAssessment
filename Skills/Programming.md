@@ -4,17 +4,17 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🖐️ used
+  - Algorithm *
   - Syntax
   - Semantics
-  - Abstraction: 🎓 known
-  - Paradigm: 🎓 known
-  - Programm: 🖐️ used
-  - Programming paradigm: 🎓 known
-  - Programming language: 🖐️ used
+  - Abstraction +
+  - Paradigm +
+  - Programm *
+  - Programming paradigm +
+  - Programming language *
   - Contract
   - Module
-  - Library: 🎓 known
+  - Library +
   - Package
   - Component
   - Framework
@@ -32,30 +32,30 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value: 🖐️ used
-  - Identifier: 🖐️ used
-  - Variable: 🖐️ used
-  - Constant: 🖐️ used
-  - Scalar: 🖐️ used
-  - Literal: 🖐️ used
-  - Expression: 🖐️ used
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar *
+  - Literal *
+  - Expression *
   - Heap
-  - Function: 🖐️ used
-  - Procedure: 👂 heard
-  - Method: 👂 heard
-  - Class: 👂 heard
-  - Prototype: 👂 heard
-  - Event
-  - Type: 🖐️ used
-  - Flag: 🖐️ used
-  - Lexical scope: 👂 heard
-  - Code block: 🖐️ used
+  - Function *
+  - Procedure *
+  - Method *
+  - Class *
+  - Prototype *
+  - Event *
+  - Type *
+  - Flag *
+  - Lexical scope ~
+  - Code block *
   - Conditions
-  - Loops: 🖐️ used
+  - Loops *
   - Assignment
-  - Regular expression: 🖐️ used
-  - Interface
-  - Namespaces
+  - Regular expression *
+  - Interface *
+  - Namespaces +
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -66,14 +66,14 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types: 🖐️ used
-  - Reference types: 🖐️ used
+  - Primitive types *
+  - Reference types *
   - Type systems
-  - Strong typing: 🖐️ used
-  - Weak typing: 🎓 known
-  - Duck typing
-  - Static typing
-  - Dynamic typing: 🖐️ used
+  - Strong typing *
+  - Weak typing +
+  - Duck typing +
+  - Static typing +
+  - Dynamic typing *
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,159 +81,159 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter: 🖐️ used
-  - Pure function: 🖐️ used
-  - Lambda expression: 🖐️ used
+  - Signature +
+  - Argument *
+  - Parameter *
+  - Pure function *
+  - Lambda expression *
   - Side effects
   - Closure
   - Partial application
-  - Currying: 🎓 known
+  - Currying +
   - Higher order
-  - Recursion: 🖐️ used
+  - Recursion *
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback *
+  - Listener *
+  - Composition *
+  - Pipe  +
   - Memoize
-  - Wrapper
-  - Functor: 🎓 known
+  - Wrapper *
+  - Functor +
   - Monad
   - Monoid
-  - Generator
+  - Generator +
   - Coroutine
 - Data structures
-  - Array: 🖐️ used
-  - Structure
+  - Array *
+  - Structure +
   - Record
-  - Enum
+  - Enum +
   - Instance
-  - Object: 🖐️ used
-  - Collection: 🖐️ used
-  - Set: 🖐️ used
+  - Object *
+  - Collection *
+  - Set *
   - Hash table
-  - Linked list: 🖐️ used
-  - Doubly list: 🎓 known
+  - Linked list *
+  - Doubly list +
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue +
+  - Stack +
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator *
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - String parsing *
+  - JSON *
+  - JSON5 
+  - YAML +
 - Networking
-  - DNS
+  - DNS +
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - CORS ~
+  - IPv4 +
+  - IPv6 + 
+  - NAT +
+  - URL +
   - URN
-  - URI
+  - URI +
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter: 🖐️ used
-  - Polyfill
-  - Interpreter
+  - Linter *
+  - Polyfill ~
+  - Interpreter +
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine: 🖐️ used
+  - Runtime +
+  - Virtual machine *
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization +
   - Debugger
   - Tracing
-  - Garbage collection
-  - Refactoring: 🖐️ used
+  - Garbage collection +
+  - Refactoring *
   - Code review
-  - Exception
-  - Unittesting
-  - git: 🖐️ used
-  - Github: 🖐️ used
-  - Docker
+  - Exception +
+  - Unittesting *
+  - git *
+  - Github *
+  - Docker *
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers: 🎓 known
-  - Hard code: 🎓 known
-  - Soft code: 🎓 known
+  - Magic numbers +
+  - Hard code +
+  - Soft code +
   - Cryptic code
   - Improbability factor
   - Accidental complexity
-  - Action at a distance
-  - Spaghetti: 🎓 known
-  - Silver bullet: 🎓 known
+  - Action at a distance ~
+  - Spaghetti +
+  - Silver bullet +
   - Not invented here
-  - Dead code: 🎓 known
-  - Unreachable code
-  - Duplicate code: 🎓 known
+  - Dead code +
+  - Unreachable code +
+  - Duplicate code +
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops +
+  - Long method/function/procedure +
+  - Long inheritance +
+  - Large class/file +
+  - Too many parameters +
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case +
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Monkey patch +
+  - Yo-yo problem ~
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode +
+  - V8 +
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
+  - Interrupts +
   - Drivers
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux: 🖐️ used
-  - Unix: 🎓 known
+  - File system *
+  - Linux *
+  - Unix +
   - BSD
   - MacOS
-  - Windows: 🖐️ used
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII +
   - Escape sequence
-  - RFC
-  - IETF
-  - IANA
-  - IEEE
-  - Base64
+  - RFC +
+  - IETF ~
+  - IANA ~
+  - IEEE ~
+  - Base64 +
   - ECMA
   - ICANN
-  - ISO
+  - ISO ~
   - MIME
   - OWASP
-  - UTF-8
-  - W3C
+  - UTF-8 *
+  - W3C ~
   - ODMG

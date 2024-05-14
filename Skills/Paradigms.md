@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Procedural programming *
+  - Imperative programming +
+  - Structured programming +
+  - Non-structured programming +
+  - Functional programming *
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming *
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor *
+  - Operator `new`  *
+  - Static method *
+  - Method *
+  - Async method *
+  - Getters, Setters *
+  - Public fields *
+  - Private fields *
+  - Field declarations *
+  - Inheritance *
+  - Parent class *
+  - Polymorphism *
+  - Abstract class *
+  - Interface *
+  - Encapsulation *
   - Hidden class
   - Object form
-  - Instance
-  - Introspection
+  - Instance *
+  - Introspection +
   - Reflection
-  - The diamond problem
+  - The diamond problem ~
 - GRASP
   - Information expert
   - Creator
@@ -64,23 +64,23 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton *
+  - Factory Method *
+  - Abstract Factory *
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy +
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator *
+  - State *
   - Bridge
-  - Builder
-  - Prototype
+  - Builder *
+  - Prototype *
   - Composite
-  - Decorator
+  - Decorator *
   - Flyweight
   - Mediator
   - Memento

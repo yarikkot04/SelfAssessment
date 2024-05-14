@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`: 🖐️ used
+  - Event loop +
+  - `try..catch` *
   - Non-blocking
-  - Async I/O
+  - Async I/O *
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,67 +22,67 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks *
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Thenable +
+  - Promise * 
+  - Async/await *
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Async Generator +
+  - Async Iterator +
+  - Event +
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream ~
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
+  - callbackify ~
+  - promisify ~
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter *
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable *
+  - Writable *
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue ~
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers *
+  - `setImmediate` +
+  - `nextTick` +
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell +
+  - Promise hell +
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code +
   - Better stack traces with return await
   - JSON streaming serialization
-  - AsyncLocalStorage
+  - AsyncLocalStorage +
   - AsyncResource
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all *
+  - Promise.allSettled *
+  - Promise.race +
+  - Promise.any +
   - Web Locks API
   - IPC
   - Channel API
