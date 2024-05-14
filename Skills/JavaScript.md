@@ -18,10 +18,10 @@
   - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators
+  - Generators: 🖐️ used
   - Iterators: 🖐️ used
-  - Async generator
-  - Async iterator: 🎓 known
+  - Async generator: 🖐️ used
+  - Async iterator: 🖐️ used
   - Chaining: 🖐️ used
   - Optional chaining: 🎓 known
   - IIFE: 🖐️ used
@@ -29,35 +29,35 @@
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
+  - Getters and setters: 🖐️ used
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment
   - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
-  - `yield`
-  - `await`
+  - `yield`: 🎓 known
+  - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
-  - `super`
-  - `eval`
-  - `static`
+  - `super`: 🖐️ used
+  - `eval`: 🎓 known
+  - `static`: 🖐️ used
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -69,14 +69,14 @@
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
-  - `import`
-  - `export`
-  - `label`
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`: 🖐️ used
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
-  - `class`
-  - `extends`
-  - `with`
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`: 👂 heard
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
@@ -93,30 +93,30 @@
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap`: 🎓 known
+  - `WeakSet`: 🎓 known
   - Typed arrays: 🖐️ used
   - Mixins: 🖐️ used
-  - `Object.assign`
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🎓 known
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
+  - `Reflect`: 🖐️ used
   - `Error`: 🖐️ used
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
+  - `Atomics`: 🎓 known
+  - `JSON`: 🖐️ used
+  - `WeakRef`: 🎓 known
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
+  - `Intl`: 🎓 known
+  - `Promise`: 🖐️ used
   - `console`: 🖐️ used
-  - Timers
+  - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known
-  - Node.js
-  - npm
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN
+  - MDN: 🖐️ used
   - TC39

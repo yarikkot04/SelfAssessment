@@ -41,11 +41,11 @@
   - Expression: 🖐️ used
   - Heap
   - Function: 🖐️ used
-  - Procedure: 👂 heard
-  - Method: 👂 heard
-  - Class: 👂 heard
-  - Prototype: 👂 heard
-  - Event
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
   - Lexical scope: 👂 heard
@@ -54,8 +54,8 @@
   - Loops: 🖐️ used
   - Assignment
   - Regular expression: 🖐️ used
-  - Interface
-  - Namespaces
+  - Interface: 🖐️ used
+  - Namespaces: 🎓 known
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -71,8 +71,8 @@
   - Type systems
   - Strong typing: 🖐️ used
   - Weak typing: 🎓 known
-  - Duck typing
-  - Static typing
+  - Duck typing: 🎓 known
+  - Static typing: 🎓 known
   - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
@@ -81,8 +81,8 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
+  - Signature: 🎓 known
+  - Argument: 🖐️ used
   - Parameter: 🖐️ used
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
@@ -93,22 +93,22 @@
   - Higher order
   - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback: 🖐️ used
+  - Listener: 🖐️ used
+  - Composition: 🖐️ used
+  - Pipe: 🎓 known
   - Memoize
-  - Wrapper
+  - Wrapper: 🖐️ used
   - Functor: 🎓 known
   - Monad
   - Monoid
-  - Generator
+  - Generator: 🎓 known
   - Coroutine
 - Data structures
   - Array: 🖐️ used
-  - Structure
+  - Structure: 🎓 known
   - Record
-  - Enum
+  - Enum: 🎓 known
   - Instance
   - Object: 🖐️ used
   - Collection: 🖐️ used
@@ -118,55 +118,55 @@
   - Doubly list: 🎓 known
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
-  - YAML
+  - YAML: 🎓 known
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - CORS: 👂 heard
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
+  - URL: 🎓 known
   - URN
-  - URI
+  - URI: 🎓 known
 - Process and tools
-  - Compiler
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter: 🖐️ used
-  - Polyfill
-  - Interpreter
+  - Polyfill: 👂 heard
+  - Interpreter: 🎓 known
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime: 🎓 known
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization: 🎓 known
   - Debugger
   - Tracing
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Refactoring: 🖐️ used
   - Code review
-  - Exception
-  - Unittesting
+  - Exception: 🎓 known
+  - Unittesting: 🖐️ used
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker
+  - Docker: 🖐️ used
   - Kubernetes
   - GCC
   - LLVM
@@ -177,43 +177,43 @@
   - Cryptic code
   - Improbability factor
   - Accidental complexity
-  - Action at a distance
+  - Action at a distance: 👂 heard
   - Spaghetti: 🎓 known
   - Silver bullet: 🎓 known
   - Not invented here
   - Dead code: 🎓 known
-  - Unreachable code
+  - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
+  - Long inheritance: 🎓 known
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Monkey patch: 🎓 known
+  - Yo-yo problem: 👂 heard
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode: 🎓 known
+  - V8: 🎓 known
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
+  - Interrupts: 🎓 known
   - Drivers
   - Kernel
   - Ring
   - Virtual memory
-  - File system
+  - File system: 🖐️ used
   - Linux: 🖐️ used
   - Unix: 🎓 known
   - BSD
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: 🎓 known
   - Escape sequence
-  - RFC
-  - IETF
-  - IANA
-  - IEEE
-  - Base64
+  - RFC: 🎓 known
+  - IETF: 👂 heard
+  - IANA: 👂 heard
+  - IEEE: 👂 heard
+  - Base64: 🎓 known
   - ECMA
   - ICANN
-  - ISO
+  - ISO: 👂 heard
   - MIME
   - OWASP
-  - UTF-8
-  - W3C
+  - UTF-8: 🖐️ used
+  - W3C: 👂 heard
   - ODMG
