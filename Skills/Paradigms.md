@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming *
-  - Imperative programming +
-  - Structured programming +
-  - Non-structured programming +
-  - Functional programming *
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming *
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor *
-  - Operator `new`  *
-  - Static method *
-  - Method *
-  - Async method *
-  - Getters, Setters *
-  - Public fields *
-  - Private fields *
-  - Field declarations *
-  - Inheritance *
-  - Parent class *
-  - Polymorphism *
-  - Abstract class *
-  - Interface *
-  - Encapsulation *
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
-  - Instance *
-  - Introspection +
+  - Instance: 🖐️ used
+  - Introspection: 🎓 known
   - Reflection
-  - The diamond problem ~
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -64,23 +64,23 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton *
-  - Factory Method *
-  - Abstract Factory *
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy +
+  - Proxy: 🎓 known
   - Chain of Responsibility
   - Command
-  - Iterator *
-  - State *
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
   - Bridge
-  - Builder *
-  - Prototype *
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator *
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento

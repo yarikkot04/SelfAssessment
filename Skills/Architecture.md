@@ -4,8 +4,8 @@
   - Modularity
   - Components
   - Directories
-  - GRASP ~
-  - SOLID ~
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -25,7 +25,7 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL) *
+  - Domain-specific language (DSL): 🖐️ used
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -34,24 +34,24 @@
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
-  - Domain-driven design (DDD) ~
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
-  - Agent +
+  - Agent: 🎓 known
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling +
-  - Entity-relationship diagram +
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML *
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways *
+  - Gateways: 🖐️ used
   - On-premises
   - IaaS
   - PaaS
@@ -70,13 +70,13 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds +
+  - Clouds: 🎓 known
   - BPMN
   - Low-code
   - No-code
   - Metric
   - Metric abuse
-  - ACID +
+  - ACID: 🎓 known
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
