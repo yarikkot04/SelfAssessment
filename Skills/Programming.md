@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model +
-  - Modeling +
-  - Subject domain ~
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 👂 heard
   - Algorithm: 🖐️ used
-  - Syntax *
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction: 🎓 known
   - Paradigm: 🎓 known
@@ -13,23 +13,23 @@
   - Programming paradigm: 🎓 known
   - Programming language: 🖐️ used
   - Contract
-  - Module *
+  - Module: 🖐️ used
   - Library: 🎓 known
-  - Package *
-  - Component * 
-  - Framework *
-  - Platform +
-  - Source code *
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🖐️ used
+  - Platform: 🎓 known
+  - Source code: 🖐️ used
   - Object code
   - Machine code
   - Microcode
-  - Software engineering *
-  - Decomposition *
-  - Control flow +
+  - Software engineering: 🖐️ used
+  - Decomposition: 🖐️ used
+  - Control flow: 🎓 known
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) *
+  - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
@@ -59,7 +59,7 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case *
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
