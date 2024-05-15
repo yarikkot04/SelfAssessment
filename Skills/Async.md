@@ -19,8 +19,8 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first
@@ -29,7 +29,7 @@
   - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: 🎓 known
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🎓 known
@@ -38,7 +38,7 @@
   - Signal
   - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
   - callbackify: 👂 heard
@@ -77,7 +77,7 @@
   - AsyncLocalStorage: 🎓 known
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library: 👂 heard
   - RxJS library
   - Promise.all: 🖐️ used
   - Promise.allSettled: 🖐️ used
