@@ -75,14 +75,14 @@
   - MySQL: 🖐️ used
   - MariaDB: 🖐️ used
   - MS SQL Server
-  - Redis
+  - Redis ~
   - Rabbit
   - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
   - SQLite: 👂 heard
-  - DynamoDB
+  - DynamoDB ~
   - Firebase: 👂 heard
 - Data engineering
   - Data warehousing

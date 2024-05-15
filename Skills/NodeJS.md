@@ -2,8 +2,8 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Stateful and stateless servers +
+  - Nonblocking I/O and blocking code +
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
@@ -50,13 +50,13 @@
   - Node.js single executable
   - SharedArrayBuffer
   - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:child_process` +
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`: 🖐️ used
   - Module `node:assert`
-  - Internationalization
+  - Internationalization +
   - Blob, File, Buffer, module `node:buffer`: 🎓 known
   - Module `node:zlib`
 - Network
@@ -111,13 +111,13 @@
   - DTO
 - Error handling and debugging
   - `Error`: 🎓 known
-  - `error.cause`
-  - `error.code`
+  - `error.cause` ~
+  - `error.code` +
   - `error.message`: 🎓 known
   - `error.stack`: 🎓 known
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions +
   - Heap dump
   - Debugging tools
   - Flame graph
