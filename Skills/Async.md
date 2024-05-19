@@ -5,7 +5,7 @@
   - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O: 🖐️ used
-  - Thread pool +
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,13 +14,13 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks +
-  - Live locks *
-  - Concurrent programming +
-  - Parallel programming *
+  - Dead locks: 🎓 known
+  - Live locks: 🖐️ used
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread: *
-  - Process: *
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first
@@ -35,11 +35,11 @@
   - Event: 🎓 known
   - Coroutine
   - Goroutine
-  - Signal +
-  - Stream: +
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware: 👂 heard
-  - Locks +
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 👂 heard
@@ -52,11 +52,11 @@
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
-  - Async Pool ~
+  - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector
-  - Semaphore *
-  - Mutex *
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used

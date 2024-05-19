@@ -1,99 +1,99 @@
 ## Java
 
 - Code basics
-  - Variables : *
-  - Primitive types : *
-  - String : *
-  - Object : *
-  - Arithmetic operators : *
-  - Boolean operators : *
-  - Complex conditions : *
-  - if/else : *
-  - switch : *
-  - Arrays : *
-  - for loop : *
-  - while loop : *
-  - do ... while loop : *
-  - foreach loop: *
-  - try/catch : *
-  - Checked exceptions : *
-  - Unchecked exceptions: +
-  - Errors : *
-  - List : *
-  - Set : *
-  - Map : *
-  - Collection, Iterable: +
+  - Variables: 🖐️ used
+  - Primitive types: 🖐️ used
+  - String: 🖐️ used
+  - Object: 🖐️ used
+  - Arithmetic operators: 🖐️ used
+  - Boolean operators: 🖐️ used
+  - Complex conditions: 🖐️ used
+  - if/else: 🖐️ used
+  - switch: 🖐️ used
+  - Arrays: 🖐️ used
+  - for loop: 🖐️ used
+  - while loop: 🖐️ used
+  - do ... while loop: 🖐️ used
+  - foreach loop: 🖐️ used
+  - try/catch: 🖐️ used
+  - Checked exceptions: 🖐️ used
+  - Unchecked exceptions: 🎓 known
+  - Errors: 🖐️ used
+  - List: 🖐️ used
+  - Set: 🖐️ used
+  - Map: 🖐️ used
+  - Collection, Iterable: 🎓 known
 - Methods
-  - Arguments : *
-  - Return type : *
-  - Method signature: *
-  - Method overloading: *
-  - varargs: ~
+  - Arguments: 🖐️ used
+  - Return type: 🖐️ used
+  - Method signature: 🖐️ used
+  - Method overloading: 🖐️ used
+  - varargs: 👂 heard
 - Recursion *
 - Classes and objects
-  - Properties :  *
-  - Methods :  *
-  - static : *
-  - Constructors : *
-  - final : *
-  - this : *
+  - Properties: 🖐️ used
+  - Methods: 🖐️ used
+  - static: 🖐️ used
+  - Constructors: 🖐️ used
+  - final: 🖐️ used
+  - this: 🖐️ used
   - Initializer
-  - Mutable and immutable objects: +
+  - Mutable and immutable objects: 🎓 known
 - Enum classes
 - Class Object
-  - toString() : *
-  - equals(), hashcode() : *
+  - toString(): 🖐️ used
+  - equals(), hashcode(): 🖐️ used
 - Packages
 - Object-Oriented Programming (OOP)
-  - Abstraction: +
-  - Encapsulation : *
-  - Inheritance : *
-  - Polymorphism : *
-  - Abstract class: *
-  - Abstract method: +
-  - Interface: *
-  - final class: +
-  - final method: +
-  - final property: *
+  - Abstraction: 🎓 known
+  - Encapsulation: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Abstract method: 🎓 known
+  - Interface: 🖐️ used
+  - final class: 🎓 known
+  - final method: 🎓 known
+  - final property: 🖐️ used
   - Nested class
-  - Inner class : *
-  - public : *
-  - private : *
-  - protected : *
-  - package-private: *
+  - Inner class: 🖐️ used
+  - public: 🖐️ used
+  - private: 🖐️ used
+  - protected: 🖐️ used
+  - package-private: 🖐️ used
   - Cast operator
-  - instanceof: *
+  - instanceof: 🖐️ used
 - Generics
   - Class with type arguments
   - Method with type arguments
   - Bounded type arguments
   - Type erasure
   - Type inference
-  - Diamond operator <>:
+  - Diamond operator <>
   - Unbounded wildcard
   - Upper-bounded wildcard
   - Lower-bounded wildcard
 - Functional programming
   - Functional interfaces
-  - Lambdas +
+  - Lambdas: 🎓 known
   - Method references
   - Java Stream API
 - Input/Output
-  - InputStream and OutputStream :  *
-  - Readers and Writers *
+  - InputStream and OutputStream: 🖐️ used
+  - Readers and Writers: 🖐️ used
   - Serialization
   - Working with files
 - Multithreading
-  - Thread : *
-  - Runnable: *
-  - Semaphore : *
-  - Lock : *
-  - Atomic types and operations : *
-  - Monitors : *
-  - synchronized methods : *
-  - synchronized blocks : *
-  - Synchronized collections: +
-  - Dead locks, race conditions : *
+  - Thread: 🖐️ used
+  - Runnable: 🖐️ used
+  - Semaphore: 🖐️ used
+  - Lock: 🖐️ used
+  - Atomic types and operations: 🖐️ used
+  - Monitors: 🖐️ used
+  - synchronized methods: 🖐️ used
+  - synchronized blocks: 🖐️ used
+  - Synchronized collections: 🎓 known
+  - Dead locks, race conditions: 🖐️ used
 - Date/Time API
 - Spring Framework
   - Spring Core

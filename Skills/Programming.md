@@ -30,7 +30,7 @@
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY): 🖐️ used
-  - KISS principle +
+  - KISS principle: 🎓 known
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -229,8 +229,8 @@
   - IANA: 👂 heard
   - IEEE: 👂 heard
   - Base64: 🎓 known
-  - ECMA +
-  - ICANN ~
+  - ECMA: 🎓 known
+  - ICANN: 👂 heard
   - ISO: 👂 heard
   - MIME
   - OWASP
