@@ -90,7 +90,7 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🖐️ used
   - Application configuring
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer: 🖐️ used
-  - Console
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
@@ -110,10 +110,10 @@
   - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
-  - `Error`: 🎓 known
+  - `Error`: 🖐️ used
   - `error.cause`: 👂 heard
   - `error.code`: 🎓 known
-  - `error.message`: 🎓 known
+  - `error.message`: 🖐️ used
   - `error.stack`: 🎓 known
   - `Error.captureStackTrace`
   - How to avoid mixins
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory: 👂 heard
   - V8 binary serialization
