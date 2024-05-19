@@ -8,10 +8,10 @@
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
-  - Object-based programming
+  - Object-based programming ~
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming *
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
