@@ -20,15 +20,15 @@
   - Framework: 🖐️ used
   - Platform: 🎓 known
   - Source code: 🖐️ used
-  - Object code
-  - Machine code
+  - Object code +
+  - Machine code +
   - Microcode
   - Software engineering: 🖐️ used
   - Decomposition: 🖐️ used
   - Control flow: 🎓 known
-  - Data flow
-  - Code reuse
-  - Defensive programming
+  - Data flow ~
+  - Code reuse *
+  - Defensive programming *
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🎓 known
 - Syntax and concepts
@@ -39,7 +39,7 @@
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
   - Expression: 🖐️ used
-  - Heap
+  - Heap *
   - Function: 🖐️ used
   - Procedure: 🖐️ used
   - Method: 🖐️ used
@@ -50,25 +50,25 @@
   - Flag: 🖐️ used
   - Lexical scope: 👂 heard
   - Code block: 🖐️ used
-  - Conditions
+  - Conditions *
   - Loops: 🖐️ used
-  - Assignment
+  - Assignment *
   - Regular expression: 🖐️ used
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
-  - Call stack
-  - Naming conventions
-  - Coding conventions
+  - Call stack *
+  - Naming conventions *
+  - Coding conventions +
   - Camel case: 🖐️ used
-  - Snake case
-  - Kebab case
+  - Snake case *
+  - Kebab case +
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
-  - Type systems
+  - Type systems +
   - Strong typing: 🖐️ used
   - Weak typing: 🎓 known
   - Duck typing: 🎓 known
@@ -86,38 +86,38 @@
   - Parameter: 🖐️ used
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying: 🎓 known
-  - Higher order
+  - Side effects *
+  - Closure *
+  - Partial application *
+  - Currying: *
+  - Higher order *
   - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition: 🖐️ used
   - Pipe: 🎓 known
-  - Memoize
+  - Memoize *
   - Wrapper: 🖐️ used
   - Functor: 🎓 known
   - Monad
   - Monoid
   - Generator: 🎓 known
-  - Coroutine
+  - Coroutine ~
 - Data structures
   - Array: 🖐️ used
   - Structure: 🎓 known
   - Record
   - Enum: 🎓 known
-  - Instance
+  - Instance +
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table
+  - Hash table +
   - Linked list: 🖐️ used
   - Doubly list: 🎓 known
   - Unrolled list
-  - Circular list
+  - Circular list ~
   - Queue: 🎓 known
   - Stack: 🎓 known
   - Deque
@@ -209,10 +209,10 @@
   - Mono
 - Operating systems
   - Interrupts: 🎓 known
-  - Drivers
-  - Kernel
+  - Drivers +
+  - Kernel +
   - Ring
-  - Virtual memory
+  - Virtual memory +
   - File system: 🖐️ used
   - Linux: 🖐️ used
   - Unix: 🎓 known

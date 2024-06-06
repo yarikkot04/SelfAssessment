@@ -7,55 +7,55 @@
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
-  - Node.js LTS schedule
+  - Node.js LTS schedule +
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) ~
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🎓 known
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
+  - Caching in CJS and ESM ~
+  - Modules as singletons ~
+  - Contexts and scripts module `node:vm` ~
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity: 🖐️ used
   - Dependency injection: 🎓 known
-  - DI containers
+  - DI containers ~
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Graceful shutdown ~
+  - Clustering ~
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API: 🎓 known
-  - Web Streams API
+  - Web Streams API ~
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
+  - File system API (sync and async) *
+  - Copy folder recursively +
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
-  - async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
+  - async_hooks +
+  - AsyncLocalStorage ~
+  - AsyncResource ~
   - Deprecated domain API: 🎓 known
-  - Node.js single executable
-  - SharedArrayBuffer
-  - Module `node:worker_threads`
+  - Node.js single executable ~
+  - SharedArrayBuffer ~
+  - Module `node:worker_threads` ~
   - Module `node:child_process`: 🎓 known
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`: 🖐️ used
-  - Module `node:assert`
+  - Module `node:assert` ~
   - Internationalization: 🎓 known
   - Blob, File, Buffer, module `node:buffer`: 🎓 known
   - Module `node:zlib`
@@ -78,34 +78,34 @@
   - REST: 🎓 known
   - RPC
   - Routing: 🖐️ used
-  - DoS
-  - DDoS
+  - DoS ~
+  - DDoS ~
   - XSS
   - Path traversal
   - CSRF
   - DNS: 🖐️ used
   - SQL injection: 🖐️ used
   - noDelay
-  - keep-alive
-  - IP sticky sessions
+  - keep-alive +
+  - IP sticky sessions +
 - Technique and tools
-  - Native test runner
+  - Native test runner ~
   - Logging: 🖐️ used
   - Application configuring
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
-  - Readable
-  - Writable
-  - Transform
+  - Readable +
+  - Writable +
+  - Transform ~
   - Back pressure
   - Buffer: 🖐️ used
   - Console: 🖐️ used
   - Inspector
 - Data access
-  - Data access layer
+  - Data access layer +
   - Repository: 🖐️ used
   - Active record
-  - Query builder
+  - Query builder +
   - Object-Relational Mapping
   - CRUD: 🖐️ used
   - DTO
@@ -120,10 +120,10 @@
   - Uncaught exceptions: 🎓 known
   - Heap dump
   - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Flame graph ~
+  - Memory leaks +
+  - Resource leaks +
+  - Data race ~
 - Integrations and bindings
   - Native addons: 👂 heard
   - `C` and `C++` addons: 👂 heard
