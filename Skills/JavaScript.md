@@ -38,7 +38,7 @@
   - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
-  - `yield`: *
+  - `yield`: 🖐️ used
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used

@@ -12,7 +12,7 @@
   - Generic programming
   - Concurrent computing
   - Asynchronous programming: 🖐️ used
-  - Parallel programming +
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -42,20 +42,20 @@
   - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class ~
-  - Object form ~
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
   - Instance: 🖐️ used
   - Introspection: 🎓 known
-  - Reflection +
+  - Reflection: 🎓 known
   - The diamond problem: 👂 heard
 - GRASP
-  - Information expert +
-  - Creator +
-  - Controller *
-  - Indirection +
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🖐️ used
+  - Indirection: 🎓 known
   - Low coupling
   - High cohesion
-  - Protected variations ~
+  - Protected variations: 👂 heard
   - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP)
@@ -67,8 +67,8 @@
   - Singleton: 🖐️ used
   - Factory Method: 🖐️ used
   - Abstract Factory: 🖐️ used
-  - Adapter ~
-  - Observer ~
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy: 🎓 known
@@ -76,15 +76,15 @@
   - Command
   - Iterator: 🖐️ used
   - State: 🖐️ used
-  - Bridge ~
+  - Bridge: 👂 heard
   - Builder: 🖐️ used
   - Prototype: 🖐️ used
-  - Composite +
+  - Composite: 🎓 known
   - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
-  - Template Method +
+  - Template Method: 🎓 known
   - Visitor
   - Reactor
   - Active object

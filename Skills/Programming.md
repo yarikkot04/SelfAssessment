@@ -20,15 +20,15 @@
   - Framework: 🖐️ used
   - Platform: 🎓 known
   - Source code: 🖐️ used
-  - Object code +
-  - Machine code +
+  - Object code: 🎓 known
+  - Machine code: 🎓 known
   - Microcode
   - Software engineering: 🖐️ used
   - Decomposition: 🖐️ used
   - Control flow: 🎓 known
-  - Data flow ~
-  - Code reuse *
-  - Defensive programming *
+  - Data flow: 👂 heard
+  - Code reuse: 🖐️ used
+  - Defensive programming: 🖐️ used
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🎓 known
 - Syntax and concepts
@@ -39,7 +39,7 @@
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
   - Expression: 🖐️ used
-  - Heap *
+  - Heap: 🖐️ used
   - Function: 🖐️ used
   - Procedure: 🖐️ used
   - Method: 🖐️ used
@@ -50,25 +50,25 @@
   - Flag: 🖐️ used
   - Lexical scope: 👂 heard
   - Code block: 🖐️ used
-  - Conditions *
+  - Conditions: 🖐️ used
   - Loops: 🖐️ used
-  - Assignment *
+  - Assignment: 🖐️ used
   - Regular expression: 🖐️ used
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
-  - Call stack *
-  - Naming conventions *
-  - Coding conventions +
+  - Call stack: 🖐️ used
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🎓 known
   - Camel case: 🖐️ used
-  - Snake case *
-  - Kebab case +
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
-  - Type systems +
+  - Type systems: 🎓 known
   - Strong typing: 🖐️ used
   - Weak typing: 🎓 known
   - Duck typing: 🎓 known
@@ -86,38 +86,38 @@
   - Parameter: 🖐️ used
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
-  - Side effects *
-  - Closure *
-  - Partial application *
-  - Currying: *
-  - Higher order *
+  - Side effects: 🖐️ used
+  - Closure: 🖐️ used
+  - Partial application: 🖐️ used
+  - Currying: 🖐️ used
+  - Higher order: 🖐️ used
   - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition: 🖐️ used
   - Pipe: 🎓 known
-  - Memoize *
+  - Memoize: 🖐️ used
   - Wrapper: 🖐️ used
   - Functor: 🎓 known
   - Monad
   - Monoid
   - Generator: 🎓 known
-  - Coroutine ~
+  - Coroutine: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - Structure: 🎓 known
   - Record
   - Enum: 🎓 known
-  - Instance +
+  - Instance: 🎓 known
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table +
+  - Hash table: 🎓 known
   - Linked list: 🖐️ used
   - Doubly list: 🎓 known
   - Unrolled list
-  - Circular list ~
+  - Circular list: 👂 heard
   - Queue: 🎓 known
   - Stack: 🎓 known
   - Deque
@@ -209,10 +209,10 @@
   - Mono
 - Operating systems
   - Interrupts: 🎓 known
-  - Drivers +
-  - Kernel +
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
-  - Virtual memory +
+  - Virtual memory: 🎓 known
   - File system: 🖐️ used
   - Linux: 🖐️ used
   - Unix: 🎓 known
